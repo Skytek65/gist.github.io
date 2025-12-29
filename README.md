@@ -1,29 +1,46 @@
-Gist
-The Private AI Summarizer for iPhone.
-Download on the App Store
+# Gist
 
-Gist is the fastest, most private way to summarize text on your iPhone. Powered by advanced on-device AI, Gist transforms long emails, articles, and notes into clear, concise bullet points—instantly.
+### The Private AI Summarizer for iPhone.
 
-✨ Why Gist?
-🔒 100% Private
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple)](https://apps.apple.com/app/idYOUR_APP_ID)
+
+---
+
+**Gist** is the fastest, most private way to summarize text on your iPhone. Powered by advanced on-device AI, Gist transforms long emails, articles, and notes into clear, concise bullet points—instantly.
+
+## ✨ Why Gist?
+
+### 🔒 100% Private
 Your data never leaves your device. Gist runs entirely offline using Apple Intelligence, ensuring your personal information stays yours. No servers. No cloud. No tracking.
 
-⚡️ Lightning Fast
+### ⚡️ Lightning Fast
 No loading bars or server delays. Just copy text from any app—Mail, Safari, Notes, Slack—and open Gist. The summary is ready before you even look.
 
-📱 Universal
+### 📱 Universal
 Works with everything. If you can copy it, Gist can summarize it.
 
-📸 Screenshots
-Screenshot 1	Screenshot 2	Screenshot 3
-Instant Summaries	Private by Design	Works Anywhere
-ℹ️ Support & Privacy
-Privacy Policy Gist is designed with privacy as its core feature. We do not collect, store, or transmit any of your personal data. All processing happens locally on your device using the Apple Neural Engine. 
-Read full Privacy Policy
+---
 
-Support Need help or have a suggestion?
+## 📸 Screenshots
 
-📧 Email us: 
-support@yourdomain.com
-🐦 Follow us on X: @YourHandle
-© 2025 Your Company Name. All rights reserved.
+| | | |
+|:---:|:---:|:---:|
+| ![Screenshot 1](screenshot1.png) | ![Screenshot 2](screenshot2.png) | ![Screenshot 3](screenshot3.png) |
+| **Instant Summaries** | **Private by Design** | **Works Anywhere** |
+
+---
+
+## ℹ️ Support & Privacy
+
+**Privacy Policy**
+Gist is designed with privacy as its core feature. We do not collect, store, or transmit any of your personal data. All processing happens locally on your device using the Apple Neural Engine.
+[Read full Privacy Policy](privacy_policy.md)
+
+**Support**
+Need help or have a suggestion?
+*   📧 Email us: [support@yourdomain.com](mailto:support@yourdomain.com)
+*   🐦 Follow us on X: [@YourHandle](https://x.com/YourHandle)
+
+---
+
+&copy; 2025 Your Company Name. All rights reserved.
