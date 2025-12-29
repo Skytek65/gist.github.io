@@ -2,7 +2,7 @@
 
 ### The Private AI Summarizer for iPhone.
 
-[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple)](https://apps.apple.com/app/idYOUR_APP_ID)
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple)](https://apps.apple.com/app/id6757134913)
 
 ---
 
