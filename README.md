@@ -30,17 +30,11 @@ Works with everything. If you can copy it, Gist can summarize it.
 
 ---
 
-## ℹ️ Support & Privacy
+## ℹ️ Privacy
 
 **Privacy Policy**
 Gist is designed with privacy as its core feature. We do not collect, store, or transmit any of your personal data. All processing happens locally on your device using the Apple Neural Engine.
-[Read full Privacy Policy](privacy_policy.md)
-
-**Support**
-Need help or have a suggestion?
-*   📧 Email us: [support@yourdomain.com](mailto:support@yourdomain.com)
-*   🐦 Follow us on X: [@YourHandle](https://x.com/YourHandle)
 
 ---
 
-&copy; 2025 Your Company Name. All rights reserved.
+&copy; 2025 Skyler Martin. All rights reserved.
