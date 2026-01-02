@@ -30,6 +30,14 @@ Works with everything. If you can copy it, Gist can summarize it.
 
 ---
 
+## 🆘 Support
+
+Need help with Gist? Have a feature request or found a bug?
+
+Please click the **Feedback** button in the bottom right corner of this page to send us a message directly. We aim to respond to all inquiries within 24 hours.
+
+---
+
 ## ℹ️ Privacy
 
 **Privacy Policy**
@@ -37,4 +45,17 @@ Gist is designed with privacy as its core feature. We do not collect, store, or 
 
 ---
 
-&copy; 2025 Skyler Martin. All rights reserved.
+&copy; 2026 Skyler Martin. All rights reserved.
+
+<script type="text/javascript">
+    window.doorbellOptions = {
+        "id": "14568",
+        "appKey": "ukMMjppJWKA7OPVYK9hAlBoHpXNPpxj6WnHKfdifGRuKMsAQpCqQ24GonjTXDeJz"
+    };
+    (function(w, d, t) {
+        var hasLoaded = false;
+        function l() { if (hasLoaded) { return; } hasLoaded = true; window.doorbellOptions.windowLoaded = true; var g = d.createElement(t);g.id = 'doorbellScript';g.type = 'text/javascript';g.crossorigin = 'anonymous';g.async = true;g.src = 'https://embed.doorbell.io/button/'+window.doorbellOptions['id']+'?t='+(new Date().getTime());(d.getElementsByTagName('head')[0]||d.getElementsByTagName('body')[0]).appendChild(g); }
+        if (w.attachEvent) { w.attachEvent('onload', l); } else if (w.addEventListener) { w.addEventListener('load', l, false); } else { l(); }
+        if (d.readyState == 'complete') { l(); }
+    }(window, document, 'script'));
+</script>
